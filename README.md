@@ -4,7 +4,7 @@ A Clojure library designed to ease mapping over maps.
 
 ## Usage
 
-FIXME
+See: [test/mapmap/core_test.clj](test/mapmap/core_test.clj)
 
 ## License
 
